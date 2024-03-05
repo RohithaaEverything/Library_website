@@ -13,7 +13,7 @@ We can register for the events like 30-Day Reading Challenge and 50 Books Challe
 Based on the facilities provided by our website, can submit feedback form also.
 ![image](https://github.com/RohithaaEverything/Library_website/assets/121723855/6f27ffce-ebb5-41a9-82b4-a082468e52da)
 ## New Arrivals Page:
-Here we can read the book by clicking on the eye symbol and can read, download and print the pdf of the book.
+Here we can read the book by clicking on the eye symbol and can download or print the pdf of the book.
 ![image](https://github.com/RohithaaEverything/Library_website/assets/121723855/8c4c9259-a214-49b3-9540-b5ef0ce8365b)
 ## Departments Page:
 In this section, there are so many books department wise, we can see the title, author and number of editions available also and we can access these books online, if we want offline mode we can download any pdfs.
