@@ -7,7 +7,7 @@ Abstract - VIGNANS Library is an Online Book Store for Vignan University Student
 ## SignUp Page:
 ![image](https://github.com/RohithaaEverything/Library_website/assets/121723855/b4413fdd-f9ae-4786-8159-f4686f6bcc4f)
 ## Event Registration Page:
-We can register for the events like 30-Day Reading Challenge and 0 Books Challenge.
+We can register for the events like 30-Day Reading Challenge and 50 Books Challenge.
 ![image](https://github.com/RohithaaEverything/Library_website/assets/121723855/da442f59-b917-4ca2-be8d-46beb2f84e06)
 ## Feedback Page:
 Based on the facilities provided by our website, can submit feedback form also.
